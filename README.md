@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Python: Creating data vizualisations by utilizing NumPy library</b>
+- <b>Python: Creating data visualizations by utilizing NumPy library</b>
   - [Analysis of Airbnb Dataset in New York City for 2016](https://medium.com/@aikerimbelis/analysis-of-airbnb-dataset-in-new-york-city-for-2016-e18f419b1975)
 - <b>Correlation Analysis, Jupyter Notebook</b>
   - [Fast Food Restaurant Chain Analysis](https://github.com/aikerimbelis/googleColab/blob/main/Case_study.ipynb)
@@ -10,7 +10,7 @@
   - [Testing different Machine Learning models](https://github.com/aikerimbelis/googleColab/blob/main/copy_of_final_q3.py)
 - <b>Data Exploration in SQL</b>
   - [COVID-19 Project](https://github.com/aikerimbelis/CovidProject_Data_Exploration/blob/main/SQLQuery1.sql)
-- <b>Tableau Vizualisations</b>
+- <b>Tableau Visualizations</b>
   - [COVID Project](https://public.tableau.com/app/profile/aikerim1831/viz/Covid_Deaths_16808912170800/Dashboard1)
   - [ER visits](https://public.tableau.com/app/profile/aikerim1831/viz/ERVisits_17087248350020/Dashboard1)
   - [BI Project for a Healthcare Company](https://public.tableau.com/app/profile/aikerim1831/viz/Aikerim_Project/ProjectStory)
