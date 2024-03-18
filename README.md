@@ -2,31 +2,34 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Creating vizualisations by utilizing NumPy library in Python</b>
+- <b>Python: Creating data vizualisations by utilizing NumPy library</b>
   - [Analysis of Airbnb Dataset in New York City for 2016](https://medium.com/@aikerimbelis/analysis-of-airbnb-dataset-in-new-york-city-for-2016-e18f419b1975)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Correlation Analysis, Jupyter Notebook</b>
+  - [Fast Food Restaurant Chain Analysis](https://github.com/aikerimbelis/googleColab/blob/main/Case_study.ipynb)
+- <b>Machine Learning Project</b>
+  - [Testing different Machine Learning models](https://github.com/aikerimbelis/googleColab/blob/main/copy_of_final_q3.py)
+- <b>Data Exploration in SQL</b>
+  - [COVID-19 Project](https://github.com/aikerimbelis/CovidProject_Data_Exploration/blob/main/SQLQuery1.sql)
+- <b>Tableau Vizualisations</b>
+  - [COVID Project](https://public.tableau.com/app/profile/aikerim1831/viz/Covid_Deaths_16808912170800/Dashboard1)
+  - [ER visits](https://public.tableau.com/app/profile/aikerim1831/viz/ERVisits_17087248350020/Dashboard1)
+  - [BI Project for a Healthcare Company](https://public.tableau.com/app/profile/aikerim1831/viz/Aikerim_Project/ProjectStory)
+  - [World Development Indicatiors: Health Equality](https://public.tableau.com/app/profile/aikerim1831/viz/WorldDevelopmentIndicatorsHealthEqualityCourseraProject/Dashboard1)
+  - [London TFL Safety](https://public.tableau.com/app/profile/aikerim1831/viz/LondonTFLSafetyDataVisualizationCoursera/Dashboard1)
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aikerimbelis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aikerimbelis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/aikerim_belis/
 [linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/aikerim-belispayeva
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aikerimbelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
