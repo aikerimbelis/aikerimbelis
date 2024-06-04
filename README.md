@@ -6,7 +6,7 @@
   - [Analysis of Airbnb Dataset in New York City for 2016](https://medium.com/@aikerimbelis/analysis-of-airbnb-dataset-in-new-york-city-for-2016-e18f419b1975)
 - <b>Correlation Analysis, Jupyter Notebook</b>
   - [Fast Food Restaurant Chain Analysis](https://github.com/aikerimbelis/googleColab/blob/main/Case_study.ipynb)
-- <b>Define and evaluate classifiers using cross-validation. </b>
+- <b>Define and evaluate classifiers using cross-validation</b>
   - [Customer Segmentation based on input features that represent customer characteristics](https://github.com/aikerimbelis/customer-segmentation)
 - <b>Data Exploration in SQL</b>
   - [COVID-19 Project](https://github.com/aikerimbelis/CovidProject_Data_Exploration/blob/main/SQLQuery1.sql)
