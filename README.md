@@ -6,8 +6,8 @@
   - [Analysis of Airbnb Dataset in New York City for 2016](https://medium.com/@aikerimbelis/analysis-of-airbnb-dataset-in-new-york-city-for-2016-e18f419b1975)
 - <b>Correlation Analysis, Jupyter Notebook</b>
   - [Fast Food Restaurant Chain Analysis](https://github.com/aikerimbelis/googleColab/blob/main/Case_study.ipynb)
-- <b>Machine Learning Project</b>
-  - [Testing different Machine Learning models](https://github.com/aikerimbelis/googleColab/blob/main/copy_of_final_q3.py)
+- <b>Customer Segmentation based on input features that represent customer characteristics.</b>
+  - (https://github.com/aikerimbelis/customer-segmentation)
 - <b>Data Exploration in SQL</b>
   - [COVID-19 Project](https://github.com/aikerimbelis/CovidProject_Data_Exploration/blob/main/SQLQuery1.sql)
 - <b>Tableau Visualizations</b>
