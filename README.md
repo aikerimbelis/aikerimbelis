@@ -7,7 +7,7 @@
 - <b>Correlation Analysis, Jupyter Notebook</b>
   - [Fast Food Restaurant Chain Analysis](https://github.com/aikerimbelis/googleColab/blob/main/Case_study.ipynb)
 - <b>Customer Segmentation based on input features that represent customer characteristics.</b>
-  - (https://github.com/aikerimbelis/customer-segmentation)
+  - [https://github.com/aikerimbelis/customer-segmentation]
 - <b>Data Exploration in SQL</b>
   - [COVID-19 Project](https://github.com/aikerimbelis/CovidProject_Data_Exploration/blob/main/SQLQuery1.sql)
 - <b>Tableau Visualizations</b>
